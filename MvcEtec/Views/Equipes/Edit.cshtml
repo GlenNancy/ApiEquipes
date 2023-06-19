@@ -1,0 +1,21 @@
+@model MvcEtec.Models.EquipeViewModel
+@{
+    ViewBag.Title = "Editar Equipe"; 
+} 
+<h2>Editar dados da Equipe</h2>
+@using (Html.BeginForm()) 
+{ 
+    @Html.AntiForgeryToken() 
+    <div class="form-horizontal">
+        <hr />
+        <div class="form-group">
+            @Html.LabelFor(model => model.NomeEquipe, htmlAttributes: new { @class = "control-label col-md-2" })
+            <div class="col-md-6">
+                @Html.EditorFor(model => model.NomeEquipe, new { htmlAttributes = new { @class = "form-control" } })
+            </div>
+        </div>
+    </div>
+} 
+<div>
+    @Html.ActionLink("Retornar", "Index") 
+</div>

@@ -1,0 +1,44 @@
+@model IEnumerable<MvcEtec.Models.JogadorViewModel>
+
+@{ViewBag.Title = "Jogadores"; }
+
+@if (@TempData["Mensagem"] != null)
+{
+    <div class="alert alert-success" role="alert">
+        
+        @Html.Raw(TempData["Mensagem"])</div>
+}
+<!--Configuração para exibir mensagem de erro -->
+@if (@TempData["MensagemErro"] != null)
+{
+    <div class="alert alert-danger" role="alert">
+        @Html.Raw(TempData["MensagemErro"])</div>
+}
+
+<h2>Relação dos Jogadores</h2>
+<p>
+    @Html.ActionLink("Adicionar Novo Jogador", "Create")
+</p>
+<table class="table">
+    <tr>
+        <th>@Html.DisplayNameFor(model => model.Rm)</th>
+        <th>@Html.DisplayNameFor(model => model.Nome)</th>
+        <th>@Html.DisplayNameFor(model => model.Turma)</th>
+        <th></th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>@Html.DisplayFor(modelItem => item.Rm)</td>
+            <td>@Html.DisplayFor(modelItem => item.Nome)</td>
+            <td>@Html.DisplayFor(modelItem => item.Turma)</td>
+            <td>
+                @Html.ActionLink("Editar", "Edit", new { rm = item.Rm } ) |
+                @Html.ActionLink("Detalhes", "Details", new { rm = item.Rm }) |
+                @Html.ActionLink("Deletar", "Delete", new { rm = item.Rm }
+                    ,new { onclick = "return confirm('Deseja realmente deletar este Jogador ?');"})
+            </td>
+        </tr>        
+    }
+</table>
