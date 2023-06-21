@@ -1,33 +1,33 @@
-C:\Users\glenn\OneDrive\Área de Trabalho\CrudEtec\MvcEtec\bin\Debug\net7.0\appsettings.Development.json
-C:\Users\glenn\OneDrive\Área de Trabalho\CrudEtec\MvcEtec\bin\Debug\net7.0\appsettings.json
-C:\Users\glenn\OneDrive\Área de Trabalho\CrudEtec\MvcEtec\bin\Debug\net7.0\MvcEtec.staticwebassets.runtime.json
-C:\Users\glenn\OneDrive\Área de Trabalho\CrudEtec\MvcEtec\bin\Debug\net7.0\MvcEtec.exe
-C:\Users\glenn\OneDrive\Área de Trabalho\CrudEtec\MvcEtec\bin\Debug\net7.0\MvcEtec.deps.json
-C:\Users\glenn\OneDrive\Área de Trabalho\CrudEtec\MvcEtec\bin\Debug\net7.0\MvcEtec.runtimeconfig.json
-C:\Users\glenn\OneDrive\Área de Trabalho\CrudEtec\MvcEtec\bin\Debug\net7.0\MvcEtec.dll
-C:\Users\glenn\OneDrive\Área de Trabalho\CrudEtec\MvcEtec\bin\Debug\net7.0\MvcEtec.pdb
-C:\Users\glenn\OneDrive\Área de Trabalho\CrudEtec\MvcEtec\bin\Debug\net7.0\Newtonsoft.Json.dll
-C:\Users\glenn\OneDrive\Área de Trabalho\CrudEtec\MvcEtec\obj\Debug\net7.0\MvcEtec.csproj.AssemblyReference.cache
-C:\Users\glenn\OneDrive\Área de Trabalho\CrudEtec\MvcEtec\obj\Debug\net7.0\MvcEtec.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\glenn\OneDrive\Área de Trabalho\CrudEtec\MvcEtec\obj\Debug\net7.0\MvcEtec.AssemblyInfoInputs.cache
-C:\Users\glenn\OneDrive\Área de Trabalho\CrudEtec\MvcEtec\obj\Debug\net7.0\MvcEtec.AssemblyInfo.cs
-C:\Users\glenn\OneDrive\Área de Trabalho\CrudEtec\MvcEtec\obj\Debug\net7.0\MvcEtec.csproj.CoreCompileInputs.cache
-C:\Users\glenn\OneDrive\Área de Trabalho\CrudEtec\MvcEtec\obj\Debug\net7.0\MvcEtec.MvcApplicationPartsAssemblyInfo.cache
-C:\Users\glenn\OneDrive\Área de Trabalho\CrudEtec\MvcEtec\obj\Debug\net7.0\MvcEtec.RazorAssemblyInfo.cache
-C:\Users\glenn\OneDrive\Área de Trabalho\CrudEtec\MvcEtec\obj\Debug\net7.0\MvcEtec.RazorAssemblyInfo.cs
-C:\Users\glenn\OneDrive\Área de Trabalho\CrudEtec\MvcEtec\obj\Debug\net7.0\staticwebassets\msbuild.MvcEtec.Microsoft.AspNetCore.StaticWebAssets.props
-C:\Users\glenn\OneDrive\Área de Trabalho\CrudEtec\MvcEtec\obj\Debug\net7.0\staticwebassets\msbuild.build.MvcEtec.props
-C:\Users\glenn\OneDrive\Área de Trabalho\CrudEtec\MvcEtec\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.MvcEtec.props
-C:\Users\glenn\OneDrive\Área de Trabalho\CrudEtec\MvcEtec\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.MvcEtec.props
-C:\Users\glenn\OneDrive\Área de Trabalho\CrudEtec\MvcEtec\obj\Debug\net7.0\staticwebassets.pack.json
-C:\Users\glenn\OneDrive\Área de Trabalho\CrudEtec\MvcEtec\obj\Debug\net7.0\staticwebassets.build.json
-C:\Users\glenn\OneDrive\Área de Trabalho\CrudEtec\MvcEtec\obj\Debug\net7.0\staticwebassets.development.json
-C:\Users\glenn\OneDrive\Área de Trabalho\CrudEtec\MvcEtec\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
-C:\Users\glenn\OneDrive\Área de Trabalho\CrudEtec\MvcEtec\obj\Debug\net7.0\scopedcss\bundle\MvcEtec.styles.css
-C:\Users\glenn\OneDrive\Área de Trabalho\CrudEtec\MvcEtec\obj\Debug\net7.0\scopedcss\projectbundle\MvcEtec.bundle.scp.css
-C:\Users\glenn\OneDrive\Área de Trabalho\CrudEtec\MvcEtec\obj\Debug\net7.0\MvcEtec.csproj.CopyComplete
-C:\Users\glenn\OneDrive\Área de Trabalho\CrudEtec\MvcEtec\obj\Debug\net7.0\MvcEtec.dll
-C:\Users\glenn\OneDrive\Área de Trabalho\CrudEtec\MvcEtec\obj\Debug\net7.0\refint\MvcEtec.dll
-C:\Users\glenn\OneDrive\Área de Trabalho\CrudEtec\MvcEtec\obj\Debug\net7.0\MvcEtec.pdb
-C:\Users\glenn\OneDrive\Área de Trabalho\CrudEtec\MvcEtec\obj\Debug\net7.0\MvcEtec.genruntimeconfig.cache
-C:\Users\glenn\OneDrive\Área de Trabalho\CrudEtec\MvcEtec\obj\Debug\net7.0\ref\MvcEtec.dll
+D:\2DS\AntonioMauricio\DSI\FinalExer\MvcEtec\obj\Debug\net7.0\MvcEtec.csproj.AssemblyReference.cache
+D:\2DS\AntonioMauricio\DSI\FinalExer\MvcEtec\obj\Debug\net7.0\MvcEtec.GeneratedMSBuildEditorConfig.editorconfig
+D:\2DS\AntonioMauricio\DSI\FinalExer\MvcEtec\obj\Debug\net7.0\MvcEtec.AssemblyInfoInputs.cache
+D:\2DS\AntonioMauricio\DSI\FinalExer\MvcEtec\obj\Debug\net7.0\MvcEtec.AssemblyInfo.cs
+D:\2DS\AntonioMauricio\DSI\FinalExer\MvcEtec\obj\Debug\net7.0\MvcEtec.csproj.CoreCompileInputs.cache
+D:\2DS\AntonioMauricio\DSI\FinalExer\MvcEtec\obj\Debug\net7.0\MvcEtec.MvcApplicationPartsAssemblyInfo.cache
+D:\2DS\AntonioMauricio\DSI\FinalExer\MvcEtec\obj\Debug\net7.0\MvcEtec.RazorAssemblyInfo.cache
+D:\2DS\AntonioMauricio\DSI\FinalExer\MvcEtec\obj\Debug\net7.0\MvcEtec.RazorAssemblyInfo.cs
+D:\2DS\AntonioMauricio\DSI\FinalExer\MvcEtec\bin\Debug\net7.0\appsettings.Development.json
+D:\2DS\AntonioMauricio\DSI\FinalExer\MvcEtec\bin\Debug\net7.0\appsettings.json
+D:\2DS\AntonioMauricio\DSI\FinalExer\MvcEtec\bin\Debug\net7.0\MvcEtec.staticwebassets.runtime.json
+D:\2DS\AntonioMauricio\DSI\FinalExer\MvcEtec\bin\Debug\net7.0\MvcEtec.exe
+D:\2DS\AntonioMauricio\DSI\FinalExer\MvcEtec\bin\Debug\net7.0\MvcEtec.deps.json
+D:\2DS\AntonioMauricio\DSI\FinalExer\MvcEtec\bin\Debug\net7.0\MvcEtec.runtimeconfig.json
+D:\2DS\AntonioMauricio\DSI\FinalExer\MvcEtec\bin\Debug\net7.0\MvcEtec.dll
+D:\2DS\AntonioMauricio\DSI\FinalExer\MvcEtec\bin\Debug\net7.0\MvcEtec.pdb
+D:\2DS\AntonioMauricio\DSI\FinalExer\MvcEtec\bin\Debug\net7.0\Newtonsoft.Json.dll
+D:\2DS\AntonioMauricio\DSI\FinalExer\MvcEtec\obj\Debug\net7.0\staticwebassets\msbuild.MvcEtec.Microsoft.AspNetCore.StaticWebAssets.props
+D:\2DS\AntonioMauricio\DSI\FinalExer\MvcEtec\obj\Debug\net7.0\staticwebassets\msbuild.build.MvcEtec.props
+D:\2DS\AntonioMauricio\DSI\FinalExer\MvcEtec\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.MvcEtec.props
+D:\2DS\AntonioMauricio\DSI\FinalExer\MvcEtec\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.MvcEtec.props
+D:\2DS\AntonioMauricio\DSI\FinalExer\MvcEtec\obj\Debug\net7.0\staticwebassets.pack.json
+D:\2DS\AntonioMauricio\DSI\FinalExer\MvcEtec\obj\Debug\net7.0\staticwebassets.build.json
+D:\2DS\AntonioMauricio\DSI\FinalExer\MvcEtec\obj\Debug\net7.0\staticwebassets.development.json
+D:\2DS\AntonioMauricio\DSI\FinalExer\MvcEtec\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\2DS\AntonioMauricio\DSI\FinalExer\MvcEtec\obj\Debug\net7.0\scopedcss\bundle\MvcEtec.styles.css
+D:\2DS\AntonioMauricio\DSI\FinalExer\MvcEtec\obj\Debug\net7.0\scopedcss\projectbundle\MvcEtec.bundle.scp.css
+D:\2DS\AntonioMauricio\DSI\FinalExer\MvcEtec\obj\Debug\net7.0\MvcEtec.csproj.CopyComplete
+D:\2DS\AntonioMauricio\DSI\FinalExer\MvcEtec\obj\Debug\net7.0\MvcEtec.dll
+D:\2DS\AntonioMauricio\DSI\FinalExer\MvcEtec\obj\Debug\net7.0\refint\MvcEtec.dll
+D:\2DS\AntonioMauricio\DSI\FinalExer\MvcEtec\obj\Debug\net7.0\MvcEtec.pdb
+D:\2DS\AntonioMauricio\DSI\FinalExer\MvcEtec\obj\Debug\net7.0\MvcEtec.genruntimeconfig.cache
+D:\2DS\AntonioMauricio\DSI\FinalExer\MvcEtec\obj\Debug\net7.0\ref\MvcEtec.dll

@@ -108,66 +108,7 @@ namespace MvcEtec.Controllers
             }
         }
 
-        [HttpGet]
-        public async Task<ActionResult> EditAsync(int? id)
-        {
-            try
-            {
-                HttpClient httpClient = new HttpClient();
-                string token =  HttpContext.Session.GetString("SessionTokenUsuario");
-
-                httpClient.DefaultRequestHeaders.Authorization = new AuthenticationHeaderValue("Bearer", token);
-                HttpResponseMessage response = await httpClient.GetAsync(uriBase + id.ToString());
-
-                string serialized = await response.Content.ReadAsStringAsync();
-
-               if (response.StatusCode == System.Net.HttpStatusCode.OK)
-                {
-                    EquipeViewModel e = await Task.Run(() => 
-                        JsonConvert.DeserializeObject<EquipeViewModel>(serialized));
-                    return View(e);
-                }
-                else
-                    throw new System.Exception(serialized); 
-            }
-            catch (System.Exception ex)
-            {
-                TempData["MensagemErro"] = ex.Message;
-                return RedirectToAction("Index");
-            }
-        }
-
-        
-        [HttpPost]
-        public async Task<ActionResult> EditAsync(EquipeViewModel e)
-        {
-            try
-            {
-                HttpClient httpClient = new HttpClient();
-                string token =  HttpContext.Session.GetString("SessionTokenUsuario");
-
-                httpClient.DefaultRequestHeaders.Authorization = new AuthenticationHeaderValue("Bearer", token);
-                var content = new StringContent(JsonConvert.SerializeObject(e));
-                content.Headers.ContentType = new MediaTypeHeaderValue("application/json");
-
-                HttpResponseMessage response = await httpClient.PutAsync(uriBase, content);
-                string serialized = await response.Content.ReadAsStringAsync();
-
-               if (response.StatusCode == System.Net.HttpStatusCode.OK)
-                {
-                    TempData["Mensagem"] = string.Format("Equipe {0}, salva com sucesso!!!", e.NomeEquipe);
-                    return RedirectToAction("Index");
-                }
-                else
-                    throw new System.Exception(serialized); 
-            }
-            catch (System.Exception ex)
-            {
-                TempData["MensagemErro"] = ex.Message;
-                return RedirectToAction("Index");
-            }
-        }
-
+       
         [HttpGet]
         public async Task<ActionResult> DeleteAsync(int id)
         {

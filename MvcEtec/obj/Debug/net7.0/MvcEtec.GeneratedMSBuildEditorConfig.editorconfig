@@ -9,53 +9,53 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = MvcEtec
 build_property.RootNamespace = MvcEtec
-build_property.ProjectDir = C:\Users\glenn\OneDrive\Área de Trabalho\CrudEtec\MvcEtec\
+build_property.ProjectDir = D:\2DS\AntonioMauricio\DSI\FinalExer\MvcEtec\
 build_property.RazorLangVersion = 7.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\glenn\OneDrive\Área de Trabalho\CrudEtec\MvcEtec
+build_property.MSBuildProjectDirectory = D:\2DS\AntonioMauricio\DSI\FinalExer\MvcEtec
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/glenn/OneDrive/Área de Trabalho/CrudEtec/MvcEtec/Views/Equipes/Create.cshtml]
+[D:/2DS/AntonioMauricio/DSI/FinalExer/MvcEtec/Views/Equipes/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXF1aXBlc1xDcmVhdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/glenn/OneDrive/Área de Trabalho/CrudEtec/MvcEtec/Views/Equipes/Details.cshtml]
+[D:/2DS/AntonioMauricio/DSI/FinalExer/MvcEtec/Views/Equipes/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXF1aXBlc1xEZXRhaWxzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/glenn/OneDrive/Área de Trabalho/CrudEtec/MvcEtec/Views/Equipes/Edit.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXF1aXBlc1xFZGl0LmNzaHRtbA==
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/glenn/OneDrive/Área de Trabalho/CrudEtec/MvcEtec/Views/Equipes/Index.cshtml]
+[D:/2DS/AntonioMauricio/DSI/FinalExer/MvcEtec/Views/Equipes/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXF1aXBlc1xJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/glenn/OneDrive/Área de Trabalho/CrudEtec/MvcEtec/Views/Home/Index.cshtml]
+[D:/2DS/AntonioMauricio/DSI/FinalExer/MvcEtec/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/glenn/OneDrive/Área de Trabalho/CrudEtec/MvcEtec/Views/Home/Privacy.cshtml]
+[D:/2DS/AntonioMauricio/DSI/FinalExer/MvcEtec/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/glenn/OneDrive/Área de Trabalho/CrudEtec/MvcEtec/Views/Jogadores/Create.cshtml]
+[D:/2DS/AntonioMauricio/DSI/FinalExer/MvcEtec/Views/Jogadores/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSm9nYWRvcmVzXENyZWF0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/glenn/OneDrive/Área de Trabalho/CrudEtec/MvcEtec/Views/Jogadores/Details.cshtml]
+[D:/2DS/AntonioMauricio/DSI/FinalExer/MvcEtec/Views/Jogadores/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSm9nYWRvcmVzXERldGFpbHMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/glenn/OneDrive/Área de Trabalho/CrudEtec/MvcEtec/Views/Jogadores/Edit.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSm9nYWRvcmVzXEVkaXQuY3NodG1s
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/glenn/OneDrive/Área de Trabalho/CrudEtec/MvcEtec/Views/Jogadores/Index.cshtml]
+[D:/2DS/AntonioMauricio/DSI/FinalExer/MvcEtec/Views/Jogadores/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSm9nYWRvcmVzXEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/glenn/OneDrive/Área de Trabalho/CrudEtec/MvcEtec/Views/Shared/_Layout.cshtml]
+[D:/2DS/AntonioMauricio/DSI/FinalExer/MvcEtec/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/2DS/AntonioMauricio/DSI/FinalExer/MvcEtec/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/2DS/AntonioMauricio/DSI/FinalExer/MvcEtec/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-1f2n3jap50

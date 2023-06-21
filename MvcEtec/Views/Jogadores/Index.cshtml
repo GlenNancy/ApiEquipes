@@ -34,7 +34,6 @@
             <td>@Html.DisplayFor(modelItem => item.Nome)</td>
             <td>@Html.DisplayFor(modelItem => item.Turma)</td>
             <td>
-                @Html.ActionLink("Editar", "Edit", new { rm = item.Rm } ) |
                 @Html.ActionLink("Detalhes", "Details", new { rm = item.Rm }) |
                 @Html.ActionLink("Deletar", "Delete", new { rm = item.Rm }
                     ,new { onclick = "return confirm('Deseja realmente deletar este Jogador ?');"})

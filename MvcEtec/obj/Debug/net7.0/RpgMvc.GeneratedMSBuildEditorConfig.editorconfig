@@ -1,0 +1,77 @@
+is_global = true
+build_property.TargetFramework = net7.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = RpgMvc
+build_property.RootNamespace = RpgMvc
+build_property.ProjectDir = d:\2DS\AntonioMauricio\DSI\FinalExer\ApiEquipes\RpgMvc\
+build_property.RazorLangVersion = 7.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = d:\2DS\AntonioMauricio\DSI\FinalExer\ApiEquipes\RpgMvc
+build_property._RazorSourceGeneratorDebug = 
+
+[d:/2DS/AntonioMauricio/DSI/FinalExer/ApiEquipes/RpgMvc/Views/Equipes/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXF1aXBlc1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[d:/2DS/AntonioMauricio/DSI/FinalExer/ApiEquipes/RpgMvc/Views/Equipes/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXF1aXBlc1xEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[d:/2DS/AntonioMauricio/DSI/FinalExer/ApiEquipes/RpgMvc/Views/Equipes/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXF1aXBlc1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[d:/2DS/AntonioMauricio/DSI/FinalExer/ApiEquipes/RpgMvc/Views/Equipes/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXF1aXBlc1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[d:/2DS/AntonioMauricio/DSI/FinalExer/ApiEquipes/RpgMvc/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[d:/2DS/AntonioMauricio/DSI/FinalExer/ApiEquipes/RpgMvc/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[d:/2DS/AntonioMauricio/DSI/FinalExer/ApiEquipes/RpgMvc/Views/Jogadores/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSm9nYWRvcmVzXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[d:/2DS/AntonioMauricio/DSI/FinalExer/ApiEquipes/RpgMvc/Views/Jogadores/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSm9nYWRvcmVzXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[d:/2DS/AntonioMauricio/DSI/FinalExer/ApiEquipes/RpgMvc/Views/Jogadores/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSm9nYWRvcmVzXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[d:/2DS/AntonioMauricio/DSI/FinalExer/ApiEquipes/RpgMvc/Views/Jogadores/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSm9nYWRvcmVzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[d:/2DS/AntonioMauricio/DSI/FinalExer/ApiEquipes/RpgMvc/Views/Usuarios/AutenticarUsuario.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXN1YXJpb3NcQXV0ZW50aWNhclVzdWFyaW8uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[d:/2DS/AntonioMauricio/DSI/FinalExer/ApiEquipes/RpgMvc/Views/Usuarios/CadastrarUsuario.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXN1YXJpb3NcQ2FkYXN0cmFyVXN1YXJpby5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[d:/2DS/AntonioMauricio/DSI/FinalExer/ApiEquipes/RpgMvc/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[d:/2DS/AntonioMauricio/DSI/FinalExer/ApiEquipes/RpgMvc/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[d:/2DS/AntonioMauricio/DSI/FinalExer/ApiEquipes/RpgMvc/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-z01m3r0ocj
