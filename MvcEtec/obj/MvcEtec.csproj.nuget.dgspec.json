@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\2DS\\AntonioMauricio\\DSI\\FinalExer\\MvcEtec\\MvcEtec.csproj": {}
+    "D:\\2DS\\AntonioMauricio\\DSI\\FinalExer\\ApiEquipes\\MvcEtec\\MvcEtec.csproj": {}
   },
   "projects": {
-    "D:\\2DS\\AntonioMauricio\\DSI\\FinalExer\\MvcEtec\\MvcEtec.csproj": {
+    "D:\\2DS\\AntonioMauricio\\DSI\\FinalExer\\ApiEquipes\\MvcEtec\\MvcEtec.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\2DS\\AntonioMauricio\\DSI\\FinalExer\\MvcEtec\\MvcEtec.csproj",
+        "projectUniqueName": "D:\\2DS\\AntonioMauricio\\DSI\\FinalExer\\ApiEquipes\\MvcEtec\\MvcEtec.csproj",
         "projectName": "MvcEtec",
-        "projectPath": "D:\\2DS\\AntonioMauricio\\DSI\\FinalExer\\MvcEtec\\MvcEtec.csproj",
+        "projectPath": "D:\\2DS\\AntonioMauricio\\DSI\\FinalExer\\ApiEquipes\\MvcEtec\\MvcEtec.csproj",
         "packagesPath": "C:\\Users\\EtecHAS\\.nuget\\packages\\",
-        "outputPath": "D:\\2DS\\AntonioMauricio\\DSI\\FinalExer\\MvcEtec\\obj\\",
+        "outputPath": "D:\\2DS\\AntonioMauricio\\DSI\\FinalExer\\ApiEquipes\\MvcEtec\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

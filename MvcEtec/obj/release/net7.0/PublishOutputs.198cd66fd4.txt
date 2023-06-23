@@ -1,0 +1,8 @@
+D:\2DS\AntonioMauricio\DSI\FinalExer\ApiEquipes\MvcEtec\publish\MvcEtec.exe
+D:\2DS\AntonioMauricio\DSI\FinalExer\ApiEquipes\MvcEtec\publish\appsettings.Development.json
+D:\2DS\AntonioMauricio\DSI\FinalExer\ApiEquipes\MvcEtec\publish\appsettings.json
+D:\2DS\AntonioMauricio\DSI\FinalExer\ApiEquipes\MvcEtec\publish\MvcEtec.dll
+D:\2DS\AntonioMauricio\DSI\FinalExer\ApiEquipes\MvcEtec\publish\MvcEtec.deps.json
+D:\2DS\AntonioMauricio\DSI\FinalExer\ApiEquipes\MvcEtec\publish\MvcEtec.runtimeconfig.json
+D:\2DS\AntonioMauricio\DSI\FinalExer\ApiEquipes\MvcEtec\publish\MvcEtec.pdb
+D:\2DS\AntonioMauricio\DSI\FinalExer\ApiEquipes\MvcEtec\publish\Newtonsoft.Json.dll
