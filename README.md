@@ -5,7 +5,7 @@ Uma API foi desenvolvida visando resolver um problema de gerenciamento de equipe
 
 <img src="https://skillicons.dev/icons?i=cs" width=40 height=40 align="left">
 
-<img src="https://github.com/GlenNancy/ApiEquipes/assets/116458056/44995788-8ee7-4606-8519-65ef639c0e23"  width=40 height=40 align="left">
+<img src="https://github.com/GlenNancy/ApiEquipes/assets/116458056/44995788-8ee7-4606-8519-65ef639c0e23"  width=40 height=40 align="left"><br>
 
 ## Desenvolvimento
 
